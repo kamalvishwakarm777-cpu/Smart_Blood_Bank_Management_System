@@ -186,12 +186,6 @@ The project follows a simple layered object-oriented structure:
 
 ---
 
-# 📊 Class Diagram
-
-The UML class diagram represents the relationships between the major classes in the system.
-
-![Class Diagram](Blood_Bank_Class_Diagram.png)
-
 ### UML Relationship Legend
 
 | Symbol            | Meaning                  |
